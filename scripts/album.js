@@ -105,7 +105,6 @@ var playButtonTemplate = '<a class="album-song-button"><span class="ion-play"></
      });
     }
     
-     
      var albums = [albumPicasso, albumMarconi, albumOasis];
      var index = 1;
      albumImage.addEventListener("click", function(event) {
